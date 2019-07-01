@@ -23,8 +23,8 @@
     "url": "https://github.com/IBM-Bluemix/cf-nodejs-client/issues"
   },
   "engines": {
-    "node": ">=4.2.3",
-    "npm": ">=2.14.7"
+    "node": ">=10.х",
+    "npm": ">=6.х"
   },
   "files": [
     "index.js",
@@ -34,7 +34,7 @@
     "bluebird": "^3.5.5",
     "protobufjs": "^5.0.1",
     "request": "^2.88.0",
-    "restler": "^3.4.0",
+    "pm-restler": "^1.0.0",
     "ws": "^7.0.1"
   },
   "devDependencies": {
