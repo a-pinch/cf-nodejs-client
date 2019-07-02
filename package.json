@@ -34,7 +34,7 @@
     "bluebird": "^3.5.5",
     "protobufjs": "^5.0.1",
     "request": "^2.88.0",
-    "pm-restler": "^1.0.0",
+    "restler": "git+https://github.com/a-pinch/restler.git",
     "ws": "^7.0.1"
   },
   "devDependencies": {
